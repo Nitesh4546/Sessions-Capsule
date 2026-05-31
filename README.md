@@ -18,6 +18,14 @@ SessionCapsule is a simple, flat, monochromatic Chrome Extension that allows you
   - Automatically matches browser/system theme preferences by default.
   - Can be manually overridden inside Settings to stay strictly in **Light Mode** or **Dark Mode**.
 
+## Preview
+
+<p align="center">
+  <img src=".img/preview1.png" width="320" alt="SessionCapsule Light Mode Preview">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src=".img/preview2.png" width="320" alt="SessionCapsule Dark Mode Preview">
+</p>
+
 ## Project Structure
 
 ```text
@@ -26,7 +34,8 @@ SessionCapsule is a simple, flat, monochromatic Chrome Extension that allows you
 ├── sidebar.html           # Main Sidebar UI structure
 ├── sidebar.js             # Client-side extension controller logic
 ├── sidebar.css            # Monochromatic UI styling & theme overrides
-└── icons/                 # Extension toolbar and brand icons
+├── icons/                 # Extension toolbar and brand icons
+└── .img/                  # Extension preview screenshots
 ```
 
 ## How to Install (Unpacked Developer Mode)
@@ -35,9 +44,9 @@ SessionCapsule is a simple, flat, monochromatic Chrome Extension that allows you
   ```text
       git clone https://github.com/Nitesh4546/Sessions-Capsule.git
   ```
-3. Open Google Chrome (or any Chromium-based browser like Brave, Edge, Opera).
-4. Navigate to `chrome://extensions/` by typing it in the address bar.
-5. Enable **Developer mode** using the toggle switch in the top-right corner.
-6. Click the **Load unpacked** button in the top-left corner.
-7. Select the folder containing this extension's files (where `manifest.json` is located).
-8. Pin the extension to your toolbar, click the icon, and start capturing tab sessions!
+2. Open Google Chrome (or any Chromium-based browser like Brave, Edge, Opera).
+3. Navigate to `chrome://extensions/` by typing it in the address bar.
+4. Enable **Developer mode** using the toggle switch in the top-right corner.
+5. Click the **Load unpacked** button in the top-left corner.
+6. Select the folder containing this extension's files (where `manifest.json` is located).
+7. Pin the extension to your toolbar, click the icon, and start capturing tab sessions!
