@@ -32,9 +32,12 @@ SessionCapsule is a simple, flat, monochromatic Chrome Extension that allows you
 ## How to Install (Unpacked Developer Mode)
 
 1. Clone or download this repository to your local machine.
-2. Open Google Chrome (or any Chromium-based browser like Brave, Edge, Opera).
-3. Navigate to `chrome://extensions/` by typing it in the address bar.
-4. Enable **Developer mode** using the toggle switch in the top-right corner.
-5. Click the **Load unpacked** button in the top-left corner.
-6. Select the folder containing this extension's files (where `manifest.json` is located).
-7. Pin the extension to your toolbar, click the icon, and start capturing tab sessions!
+  ```text
+      git clone https://github.com/Nitesh4546/Sessions-Capsule.git
+  ```
+3. Open Google Chrome (or any Chromium-based browser like Brave, Edge, Opera).
+4. Navigate to `chrome://extensions/` by typing it in the address bar.
+5. Enable **Developer mode** using the toggle switch in the top-right corner.
+6. Click the **Load unpacked** button in the top-left corner.
+7. Select the folder containing this extension's files (where `manifest.json` is located).
+8. Pin the extension to your toolbar, click the icon, and start capturing tab sessions!
