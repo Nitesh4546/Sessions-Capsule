@@ -50,6 +50,7 @@ Here is a quick walkthrough showing how to download, install, and use the extens
 ### For Chrome
 <video src=".img/preview1.mp4" controls muted width="800" height="500" align="center">
 </video>
+
 ## Project Structure
 
 ```text
