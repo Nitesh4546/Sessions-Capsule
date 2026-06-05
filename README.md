@@ -34,22 +34,23 @@ SessionCapsule is a simple, flat, monochromatic browser extension that allows yo
 
 ### For Chrome
 <p align="center">
-  <img src=".img/preview1.png" width="320" alt="SessionCapsule Light Mode Preview">
+  <img src=".img/preview1.png" width="320" alt="SessionCapsule Chrome Light Mode Preview">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src=".img/preview2.png" width="320" alt="SessionCapsule Dark Mode Preview">
+  <img src=".img/preview2.png" width="320" alt="SessionCapsule Chrome Dark Mode Preview">
 </p>
+
 
 
 ### Walkthrough Video
 Here is a quick walkthrough showing how to download, install, and use the extension:
 
 ### For FireFox
-<video src=".img/preview.mp4" controls muted width="800" height="500" align="center">
-</video>
+<a href=".img/preview.mp4" controls muted width="800" height="500" align="center" target="blank">Video of Demo
+</a>
 
 ### For Chrome
-<video src=".img/preview1.mp4" controls muted width="800" height="500" align="center">
-</video>
+<a href=".img/preview1.mp4" controls muted width="800" height="500" align="center" target="blank">Video of Demo
+</a>
 
 ## Project Structure
 
